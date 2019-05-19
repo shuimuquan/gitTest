@@ -6,3 +6,6 @@ wwwwwww
 4444444444444
 5555555555
 1
+[credential]
+	
+helper = manager
